@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap");
+
+*{
+    margin: 0px; 
+    padding: 0px; 
+    font-family: 'Lucida Sans', sans-serif;
+    margin-top: 0px;
+   
+}
+
+body{ 
+   
+    background-color:#dcbdee; 
+    letter-spacing: 2px;
+    font-size: small;
+    color: #fff;
+   
+
+}
+
+.contenido{
+background-color: rgb(157, 159, 250);
+height: auto;
+width: 800px;
+position: absolute;
+transform: translate(-50%, -50%);
+left: 50%;
+top: 50%;
+text-align: justify;
+margin-top: 50px;
+margin-bottom: 100px;
+padding: 20px;
+padding-bottom: 30px;
+
+
+}
+
+.p{
+    font-weight: bold;
+    text-align: justify;
+   
+}
+
+.columnas{
+    width: 100%;
+    margin: auto;
+    
+}
+
+.Cajas{
+
+    width: 33.333%;
+    float: left;
+   
+}
+.Caja2{
+    width: 66.666;
+    float: left;
+    
+}
+.Izquierda{
+    margin-left: 33.333%;
+    padding: 0px 25px;
+    
+}
+.Iconos-Hobbies {
+    font-size: 30px! important;
+    padding: 10px 10px;
+
+}
